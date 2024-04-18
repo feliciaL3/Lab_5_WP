@@ -48,7 +48,6 @@ def print_cached_response(response):
         print("Unknown response type")
 
 
-
 def extract_url_data(url):
     parsed_url = urlparse(url)
 
